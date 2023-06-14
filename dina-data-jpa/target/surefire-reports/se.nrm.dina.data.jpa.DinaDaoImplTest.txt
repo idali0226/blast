@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: se.nrm.dina.data.jpa.DinaDaoImplTest
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.299 sec - in se.nrm.dina.data.jpa.DinaDaoImplTest
